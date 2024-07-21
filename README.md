@@ -14,7 +14,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width ="350px" height="250"></picture>
 
 <br><br>
-
+<!-- About me > 
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University EELU Sohag ](https://www.eelu.edu.eg/).
 
 <!-- - :technologist: I love using Software as a solution for every `Problem`.
@@ -37,6 +37,8 @@
   ![My Skills](https://skillicons.dev/icons?i=cpp,java,python,md,mysql)
 
 <br>   
+
+<!-- Tools -->
     
 - **Artificial Intelligence**:
 
