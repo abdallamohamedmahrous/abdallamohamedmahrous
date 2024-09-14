@@ -1,29 +1,27 @@
-
 <h1 align="center"><b>Hi , I'm Abdalla Mohamed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Sciences+Student;AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
-
 <br>
-
 
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width ="350px" height="250"></picture>
+<picture> 
+  <img align="right" src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/11/artificial-intelligence.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5" width ="350px" height="250">
+</picture>
 
 <br><br>
-<!-- About me > 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University EELU Sohag ](https://www.eelu.edu.eg/).
 
-<!-- - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- 😎 Always `learning new things`. -->
+- :school: I am Abdalla Mohamed, a passionate Computer Science student and an AI Engineer. I'm currently pursuing my degree at [Faculty of Computers & Informatics](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University (EELU)](https://www.eelu.edu.eg/).
+
+- :robot: I am highly interested in Artificial Intelligence and Machine Learning. I enjoy exploring AI applications and developing AI-driven solutions.
+
+- :technologist: Besides AI, I love using software as a solution for real-world problems. I'm also interested in competitive programming and always eager to learn new technologies.
+
 <br>
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -38,11 +36,14 @@
 
 <br>   
 
-<!-- Tools -->
-    
 - **Artificial Intelligence**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  
+   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+   ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn%20-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+   ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+   ![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <br>
 
@@ -58,7 +59,6 @@
 -----
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -117,5 +117,3 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
