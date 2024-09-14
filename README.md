@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> 
-  <img align="right" src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/11/artificial-intelligence.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5" width ="350px" height="250">
+  <img align="right" src="https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width ="350px" height="250">
 </picture>
 
 <br><br>
